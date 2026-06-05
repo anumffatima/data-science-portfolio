@@ -14,6 +14,9 @@ This machine learning project predicts whether a Titanic passenger survived base
 - Scikit-learn
 - Google Colab
 
+### Dataset Source
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
 ## Machine Learning Model
 
 - Logistic Regression
