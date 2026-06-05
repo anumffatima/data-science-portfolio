@@ -49,6 +49,12 @@ The dataset contains information about 200 mall customers.
 
 ---
 
+### Dataset Source
+
+https://www.kaggle.com/datasets/shwetabh123/mall-customers
+
+---
+
 ## Data Preprocessing
 
 The following preprocessing steps were performed:
@@ -112,16 +118,6 @@ Average Income – Average Spending
 - Low Income – High Spending customers may respond well to promotions and discounts.
 - Low Income – Low Spending customers are less valuable from a marketing perspective.
 - Average customers form the largest stable customer group.
-
----
-
-## Project Structure
-
-customer-segmentation-kmeans/
-│
-├── Customer_Segmentation.ipynb
-├── Mall_Customers.csv
-├── README.md
 
 ---
 
