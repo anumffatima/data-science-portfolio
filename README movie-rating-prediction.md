@@ -86,16 +86,6 @@ RMSE: 0.9420
 
 The project includes a histogram showing the distribution of movie ratings.
 
-## Project Structure
-
-```
-Movie-Rating-Prediction/
-│
-├── Movie_Rating_Prediction.ipynb
-├── movies.csv
-├── README.md
-
-```
 
 ## How to Run
 
